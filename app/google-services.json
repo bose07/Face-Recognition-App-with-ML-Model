@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744256461109",
+    "firebase_url": "https://face-de.firebaseio.com",
+    "project_id": "face-de",
+    "storage_bucket": "face-de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744256461109:android:157a87e57dd723e6b6547c",
+        "android_client_info": {
+          "package_name": "com.example.face"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744256461109-tadrucmh8glnmpom3tnerjqsopccmoau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPTu783UrbXZF76WbBDvzWIlDphwvSWiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744256461109-tadrucmh8glnmpom3tnerjqsopccmoau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
